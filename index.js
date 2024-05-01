@@ -10,3 +10,7 @@ function isAbove()
         return true;
     }
 }
+function cacl(a,b)
+{
+    return a+b;
+}
