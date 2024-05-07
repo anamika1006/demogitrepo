@@ -27,3 +27,4 @@ function pro(a,b)
 {
     return a*b;
 }
+let name1 =anamika;
